@@ -1,4 +1,5 @@
 # XFCE CPU & Memory Panel Monitor Installer
+<img width="782" height="29" alt="topbar" src="https://github.com/user-attachments/assets/f360c73d-a303-4746-be64-71ca77e8ca66" />
 
 A lightweight, automated Bash script to display real-time **CPU Core Graph** and **Memory Usage** on the top panel bar of your XFCE desktop environment, mimicking the default styling found in the x86 installer version of Kali Linux.
 
@@ -36,3 +37,5 @@ The script will automatically refresh your panel to load the widgets.
 Once installed, you can further customize both widgets via the GUI:
 1. **CPU Graph**: Right-click the graph → **Properties** to configure colors, history time scale, display mode (LED, Fire, Grid, or Normal), and per-core usage bars.
 2. **System Load (Memory)**: Right-click the memory bar → **Properties** to adjust colors, update intervals, or re-enable Swap/Uptime if desired.
+<img width="360" height="578" alt="Properties" src="https://github.com/user-attachments/assets/40cc8e0d-58f3-4793-b3bc-cba9a147bd61" />
+
